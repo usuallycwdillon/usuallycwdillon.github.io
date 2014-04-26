@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Anon | My Octopress Blog]]></title>
+  <link href="http://usuallycwdillon.github.io/blog/categories/anon/atom.xml" rel="self"/>
+  <link href="http://usuallycwdillon.github.io/"/>
+  <updated>2014-04-25T18:03:54-04:00</updated>
+  <id>http://usuallycwdillon.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[And Now for Something Completely Typical]]></title>
+    <link href="http://usuallycwdillon.github.io/blog/2014/04/25/and-now-for-something-completely-typical/"/>
+    <updated>2014-04-25T16:28:45-04:00</updated>
+    <id>http://usuallycwdillon.github.io/blog/2014/04/25/and-now-for-something-completely-typical</id>
+    <content type="html"><![CDATA[<h3>Why now?</h3>
+
+<p>Today, I set about setting-up a blog on Git Pages because I&rsquo;m starting to
+collect a bit of stuff here and I expect the pile to grow larger over the coming
+summer.</p>
+]]></content>
+  </entry>
+  
+</feed>
